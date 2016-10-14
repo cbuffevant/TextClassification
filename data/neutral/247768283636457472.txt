@@ -1,0 +1,1 @@
+@AndrewPeterson Yes, yes, but what you see in the Finder is file directory data that points to your actual files. The file may still exist.
